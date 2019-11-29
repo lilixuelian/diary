@@ -1,5 +1,6 @@
  [cry](https://github.com/Cruyun/JS-exercise/blob/master/Lab/test.md)
- 1、
+
+1、
  ```
 var a = function(){} //一个空的对象
 a.b = 1
@@ -28,6 +29,7 @@ var bar = new Foo()
 console.log(bar.a) //--> 2
  ```
  [详解JS构造函数中this和return](https://www.jb51.net/article/123812.htm)
+
 3、
 ```
 var map = Object.create(null); // 创建一个没有原型的对象
